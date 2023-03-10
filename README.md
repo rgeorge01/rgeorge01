@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @rgeorge01. I know basics of programming, I used to code in C/C++ about 20 years ago but haven't done any coding in 10 years.
-- 👀 I’m interested in learning how to use Git and build a web application
-- 🌱 I’m currently learning Git
-- 💞️ I’m looking to collaborate on any project
+- 👋 Hi, I’m @rgeorge01. 
+- 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me ... mail.rgeorge@gmail.com
 
 <!---
